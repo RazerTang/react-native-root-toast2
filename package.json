@@ -18,6 +18,7 @@
         "focus"
     ],
     "dependencies": {
+        "prop-types": "^15.5.10",
         "react-native-root-siblings": "^1.2.1"
     }
 }
