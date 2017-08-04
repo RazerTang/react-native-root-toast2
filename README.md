@@ -1,5 +1,11 @@
- ####simplify usage of  react-native-root-toast,you can not use  it as a component but a simple function
- reference:https://github.com/magicismight/react-native-root-toast
+ ### react-native-root-toast
+
+-----------------------
+ 
+ #### simplify usage of react-native-root-toast,you can not use  it as a component but a simple function
+ #### reference:https://github.com/magicismight/react-native-root-toast
+ 
+ ### Install
  
 ##### **Calling api**
 
@@ -14,7 +20,7 @@ Toast.hide();
 
 ### Usage 2:
 // Add a Toast on screen.
-let toast = Toast.show('This is a message', {
+ Toast.show('This is a message', {
     duration: Toast.durations.LONG,
     position: Toast.positions.BOTTOM,
     shadow: true,
@@ -37,6 +43,6 @@ let toast = Toast.show('This is a message', {
 
 // You can manually hide the Toast, or it will automatically disappear after a `duration` ms timeout.
 setTimeout(function () {
-    Toast.hide(toast);
+    Toast.hide();
 }, 500);
 
