@@ -1,4 +1,4 @@
- ### react-native-root-toast
+ ### react-native-root-toast2
 
 -----------------------
  
