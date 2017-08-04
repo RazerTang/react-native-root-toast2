@@ -7,7 +7,7 @@
  #### You can also use  react-native-root-toast,reference:https://github.com/magicismight/react-native-root-toast
  
  ### Install
- npm i react-native-root-toast2 -g --save
+ npm i react-native-root-toast2  --save
  
 ##### **Calling api**
 
