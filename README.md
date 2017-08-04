@@ -1,14 +1,19 @@
- simplify usage of  react-native-root-toast,you can not use  it as a component but a simple function
+ ####simplify usage of  react-native-root-toast,you can not use  it as a component but a simple function
  reference:https://github.com/magicismight/react-native-root-toast
  
- usage 1:
-Toast.show('This is a message');
+##### **Calling api**
 
-//after few seconds
+```
+import Toast from 'react-native-root-toast';
+
+
+####usage 1:
+Toast.show('This is a message');
 Toast.hide();
- 
- usage2:
- / Add a Toast on screen.
+
+
+####usage 2:
+// Add a Toast on screen.
 let toast = Toast.show('This is a message', {
     duration: Toast.durations.LONG,
     position: Toast.positions.BOTTOM,
