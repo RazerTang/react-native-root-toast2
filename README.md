@@ -3,7 +3,7 @@
 -----------------------
  
  #### Simplify usage of react-native-root-toast,you can not use  it as a component but a simple function.
- #### Show only one at same time!
+ #### Show only one at the same time!
  #### Reference:https://github.com/magicismight/react-native-root-toast
  
  ### Install
