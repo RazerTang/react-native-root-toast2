@@ -7,12 +7,12 @@
 import Toast from 'react-native-root-toast';
 
 
-####usage 1:
+### Usage 1:
 Toast.show('This is a message');
 Toast.hide();
 
 
-####usage 2:
+### Usage 2:
 // Add a Toast on screen.
 let toast = Toast.show('This is a message', {
     duration: Toast.durations.LONG,
