@@ -12,7 +12,7 @@
 ##### **Calling api**
 
 ```
-import Toast from 'react-native-root-toast';
+import Toast from 'react-native-root-toast2';
 
 
 ### Usage 1:
