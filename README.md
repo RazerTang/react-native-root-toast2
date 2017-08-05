@@ -2,7 +2,7 @@
 
 -----------------------
  
- ## Simplify usage of react-native-root-toast,you can not use  it as a component but a simple function.
+ ## Simplify usage of [react-native-root-toast](https://github.com/magicismight/react-native-root-toast),you can not use  it as a component but a simple function.
  ## Show only one at the same time!
  ## You can also use  [react-native-root-toast](https://github.com/magicismight/react-native-root-toast)
  
@@ -17,6 +17,9 @@ import Toast from 'react-native-root-toast2';
 
 ### Usage 1:
 Toast.show('This is a message');
+
+
+//then
 Toast.hide();
 
 
