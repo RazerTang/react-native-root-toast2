@@ -4,10 +4,10 @@
  
  #### Simplify usage of react-native-root-toast,you can not use  it as a component but a simple function.
  #### Show only one at the same time!
- #### You can also use  react-native-root-toast,reference:https://github.com/magicismight/react-native-root-toast
+ #### You can also use  react-native-root-toast,reference:`https://github.com/magicismight/react-native-root-toast`
  
  ### Install
- npm i react-native-root-toast2  --save
+ `npm i react-native-root-toast2  --save`
  
 ##### **Calling api**
 
