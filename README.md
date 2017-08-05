@@ -1,15 +1,15 @@
- ### react-native-root-toast2
+ # react-native-root-toast2
 
 -----------------------
  
- #### Simplify usage of react-native-root-toast,you can not use  it as a component but a simple function.
- #### Show only one at the same time!
- #### You can also use  react-native-root-toast,reference:https://github.com/magicismight/react-native-root-toast
+ ## Simplify usage of react-native-root-toast,you can not use  it as a component but a simple function.
+ ## Show only one at the same time!
+ ## You can also use  react-native-root-toast,reference:https://github.com/magicismight/react-native-root-toast
  
- ### Install
+ ## Install
  `npm i react-native-root-toast2  --save`
  
-##### **Calling api**
+## **Calling api**
 
 ```
 import Toast from 'react-native-root-toast2';
